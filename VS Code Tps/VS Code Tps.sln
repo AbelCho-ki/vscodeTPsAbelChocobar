@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "proyectos de Chocobar", "proyectos de Chocobar", "{A121DE28-7941-CC3A-F2B2-C56E275CC970}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TrabajoTP2", "TrabajoTP2", "{57C70866-54AA-033A-EDCA-7E6C81B23F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "proyectos de Chocobar\TrabajoTP2\Ejercicio1\Ejercicio1.csproj", "{E0811FF9-BF0D-0D18-0102-87DB5FB7357A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2", "proyectos de Chocobar\TrabajoTP2\Ejercicio2\Ejercicio2.csproj", "{D3161CD5-8E65-C792-04DD-0D12802786F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0811FF9-BF0D-0D18-0102-87DB5FB7357A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0811FF9-BF0D-0D18-0102-87DB5FB7357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0811FF9-BF0D-0D18-0102-87DB5FB7357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0811FF9-BF0D-0D18-0102-87DB5FB7357A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3161CD5-8E65-C792-04DD-0D12802786F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3161CD5-8E65-C792-04DD-0D12802786F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3161CD5-8E65-C792-04DD-0D12802786F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3161CD5-8E65-C792-04DD-0D12802786F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57C70866-54AA-033A-EDCA-7E6C81B23F41} = {A121DE28-7941-CC3A-F2B2-C56E275CC970}
+		{E0811FF9-BF0D-0D18-0102-87DB5FB7357A} = {57C70866-54AA-033A-EDCA-7E6C81B23F41}
+		{D3161CD5-8E65-C792-04DD-0D12802786F8} = {57C70866-54AA-033A-EDCA-7E6C81B23F41}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D13F5BC-2C59-4CEC-B987-79FEC886F8EC}
+	EndGlobalSection
+EndGlobal
